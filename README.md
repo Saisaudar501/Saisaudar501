@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Saisaudar501/Saisaudar501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Sai Saudar] 👋
 
-Here are some ideas to get you started:
+## About me
+- 💻 Software Engineer
+- 🌱 Currently learning [DevOps]
+- 💬 Ask me about [AWS, GIT, GitHub, Linux]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: [java, python]
+- Technologies: [AWS cloud computing, Git, GitHub, Docker, Kubernetes]
+
+
+
