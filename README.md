@@ -8,7 +8,7 @@
 
 ## Skills
 - Technologies:
-    > DevOps Methodology
+    > DevOps Methodology <
     > AWS cloud computing
     > Linux
     > Git
