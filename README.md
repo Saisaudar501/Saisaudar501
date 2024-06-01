@@ -1,13 +1,25 @@
 
-# Hello, I'm [Sai Saudar] 👋
+# Hello, I'm Sai Saudar 👋
 
 ## About me
 - 💻 DevOps Engineer
-- 🌱 Currently learning and working on [DevOps]
-- 💬 Ask me about [AWS, GIT, GitHub, Linux, Terraform, Jenkins]
+- 🌱 Currently learning and working on DevOps.
+- 💬 Ask me about AWS Cloud and DevOps.
 
 ## Skills
-- Technologies: [AWS cloud computing, Git, GitHub, Docker, Kubernetes, Terraform, Linux, Jenkins]
+- Technologies:
+    > DevOps Methodology
+    > AWS cloud computing
+    > Linux
+    > Git
+    > GitHub
+    > Docker
+    > Kubernetes
+    > Terraform
+    > Jenkins
+    > Maven
+    > Ansible
+    > SQL
 
 
 
