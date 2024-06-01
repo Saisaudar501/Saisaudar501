@@ -7,7 +7,7 @@
 - 💬 Ask me about AWS Cloud and DevOps.
 
 ## Skills
-- Technologies:
+- Tools & Technologies:
     - DevOps Methodology 
     - AWS cloud computing
     - Linux
@@ -21,5 +21,8 @@
     - Ansible
     - SQL
 
-
+- Soft Skills:
+    - Effective Communication
+    - Presentation Skills
+    - Teamwork
 
