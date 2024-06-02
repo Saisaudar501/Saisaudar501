@@ -8,18 +8,12 @@
 
 ## Skills
 - Tools & Technologies:
-    - DevOps Methodology 
-    - AWS cloud computing
-    - Linux
-    - Git
-    - GitHub
-    - Docker
-    - Kubernetes
-    - Terraform
-    - Jenkins
-    - Maven
-    - Ansible
-    - SQL
+    - DevOps Methodology     - AWS cloud computing
+    - Linux                  - Git
+    - GitHub                 - Docker
+    - Kubernetes             - Terraform
+    - Jenkins                - Maven
+    - Ansible                - SQL
 
 - Soft Skills:
     - Effective Communication
